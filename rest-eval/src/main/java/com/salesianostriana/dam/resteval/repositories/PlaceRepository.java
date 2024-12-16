@@ -1,5 +1,6 @@
-package com.salesianostriana.dam.resteval;
+package com.salesianostriana.dam.resteval.repositories;
 
+import com.salesianostriana.dam.resteval.models.Place;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Repository;
 

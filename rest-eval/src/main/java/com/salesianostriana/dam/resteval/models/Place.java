@@ -1,4 +1,4 @@
-package com.salesianostriana.dam.resteval;
+package com.salesianostriana.dam.resteval.models;
 
 import lombok.*;
 
